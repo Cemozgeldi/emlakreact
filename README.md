@@ -1,3 +1,7 @@
+#About Project
+In this project, my primary focus was to gain practical experience with react-router-dom. I had the opportunity to experiment with many of the methods and functions it offers. Additionally, I implemented a nested router structure. For the database, I created mock data and served it as a JSON server. In terms of styling, I utilized pure CSS.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
