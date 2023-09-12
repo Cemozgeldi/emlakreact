@@ -1,0 +1,39 @@
+{
+  "konutlar": [
+    {
+      "id": 1,
+      "baslik": "3+1 3.kat",
+      "fiyat": 1.5,
+      "konum": "İstanbul / Kadıköy",
+      "durum": "Satılık"
+    },
+    {
+      "id": 2,
+      "baslik": "2+1 2.kat",
+      "fiyat": 1.2,
+      "konum": "İstanbul / Kadıköy",
+      "durum": "Satılık"
+    },
+    {
+      "id": 3,
+      "baslik": "3+1 1.kat",
+      "fiyat": 1.3,
+      "konum": "İstanbul / Kadıköy",
+      "durum": "Satılık"
+    },
+    {
+      "id": 4,
+      "baslik": "3+1 4.kat",
+      "fiyat": 1500,
+      "konum": "İstanbul / Kadıköy",
+      "durum": "Kiralık"
+    },
+    {
+      "id": 5,
+      "baslik": "2+1 3.kat",
+      "fiyat": 1200,
+      "konum": "İstanbul / Kadıköy",
+      "durum": "Kiralık"
+    }
+  ]
+}
